@@ -1,4 +1,9 @@
 p {
-    color: brown;
+    color: rgb(3, 0, 0);
     font-size: 40px;
+}
+
+h1{ 
+    color: rgb(182, 10, 10);
+    font-size: size 50px;
 }
